@@ -1,0 +1,61 @@
+@font-face {
+  font-family: 'Fixel Display';
+  src: url('/fonts/FixelDisplay-Thin.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fixel Display';
+  src: url('/fonts/FixelDisplay-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fixel Display';
+  src: url('/fonts/FixelDisplay-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fixel Display';
+  src: url('/fonts/FixelDisplay-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fixel Display';
+  src: url('/fonts/FixelDisplay-SemiBold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fixel Display';
+  src: url('/fonts/FixelDisplay-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Fixel Display';
+  src: url('/fonts/FixelDisplay-ExtraBold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  font-family: "Fixel Display";
+  background-image: url(../train-background.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+}

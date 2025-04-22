@@ -1,0 +1,12 @@
+.button {
+    padding: 10px 30px;
+    background-color: transparent;
+    color: #ffffff;
+    border-radius: 10px;
+
+}
+
+.is-primary {
+    background-color: #fff;
+    color: #000000;
+}

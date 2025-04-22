@@ -1,0 +1,15 @@
+h1 {
+    font-size: 40px;
+    font-weight: 60px;
+    color: #FFFFFF;
+    padding-bottom: 40px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding-top: 60px;
+}
